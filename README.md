@@ -19,4 +19,7 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 [First non-repeating character](https://github.com/ArminRmt/Codewars/blob/main/First%20non-repeating%20character/test.py) challenge in [link](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e/train/python)
 
 
+[Did I Finish my Sudoku?](https://github.com/ArminRmt/Codewars/blob/main/Did%20I%20Finish%20my%20Sudoku%3F/test.py) challenge in [link](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2/train/python)
+
+
 
