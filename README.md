@@ -22,3 +22,10 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 [Did I Finish my Sudoku?](https://github.com/ArminRmt/Codewars/blob/main/Did%20I%20Finish%20my%20Sudoku%3F/test.py) challenge in [link](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2/train/python)
 
 [String incrementer](https://github.com/ArminRmt/Codewars/tree/main/String%20incrementer) challenge in [link](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/python)
+
+
+
+[Search The 0 Sums Combinations in an Array](https://github.com/ArminRmt/Codewars/blob/main/Search%20The%200%20Sums%20Combinations%20in%20an%20Array/test.py) challenge in [link](https://www.codewars.com/kata/5711fc7c159cde6ac70003e2/train/python)
+
+
+
