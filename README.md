@@ -29,3 +29,6 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 
 
 
+[Not very secure](https://github.com/ArminRmt/Codewars/blob/main/Not%20very%20secure/test.py) challenge in [link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/train/python)
+
+
