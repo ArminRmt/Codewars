@@ -35,3 +35,5 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 [Valid Parentheses](https://github.com/ArminRmt/Codewars/blob/main/Valid%20Parentheses/test.py) challenge in [link](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/python)
 
 
+[Moving Zeros To The End](https://github.com/ArminRmt/Codewars/blob/main/Moving%20Zeros%20To%20The%20End/test.py) challenge in [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)
+
