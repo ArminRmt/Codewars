@@ -1,7 +1,22 @@
+<h1 align="center">CodeWars</h1>
+
+<div align="center">
+  <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="RS_school">
+  <br>
+  <sub>
+    <a href="https://www.codewars.com/users/Armin16">Armin Rahmati</a>
+  </sub>
+</div>
+
 ## What is CodeWars?
 
 It's a website where you can face challenges and you get leveled by how good
 you do. You choose from a variety of languages to train, I'll be starting with PHP and add other languages later.
+
+
+### Honors
+<a href="https://www.codewars.com/users/Armin16" target="_blank">
+
 
 ## my profile
 These are my solutions to [codewars](http://codewars.com). My profile in codewars can be found [here](https://www.codewars.com/users/Armin16). 
