@@ -42,3 +42,5 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 
 
 
+[Strip Comments](https://github.com/ArminRmt/Codewars/blob/main/Strip%20Comments/test.py) challenge in [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/python)
+
