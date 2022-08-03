@@ -37,3 +37,8 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 
 [Moving Zeros To The End](https://github.com/ArminRmt/Codewars/blob/main/Moving%20Zeros%20To%20The%20End/test.py) challenge in [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)
 
+
+[Last digit of a large number](https://github.com/ArminRmt/Codewars/blob/main/Last%20digit%20of%20a%20large%20number/test.py) challenge in [link](https://www.codewars.com/kata/5511b2f550906349a70004e1/train/python)
+
+
+
