@@ -11,11 +11,11 @@
 ## What is CodeWars?
 
 It's a website where you can face challenges and you get leveled by how good
-you do. You choose from a variety of languages to train, I'll be starting with PHP and add other languages later.
+you do. You choose from a variety of languages to train, I'll be starting with Python and add other languages later.
 
 
 ### Honors
-<a href="https://www.codewars.com/users/Armin16" target="_blank">
+![alt rank](https://www.codewars.com/users/Armin16/badges/large)
 
 
 ## my profile
