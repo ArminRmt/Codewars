@@ -62,3 +62,6 @@ These are my solutions to [codewars](http://codewars.com). My profile in codewar
 
 [Count IP Addresses](https://github.com/ArminRmt/Codewars/blob/main/Count%20IP%20Addresses/test.py) challenge in [link](https://www.codewars.com/kata/526989a41034285187000de4/train/python)
 
+
+4ku [Recover a secret string from random triplets
+](https://github.com/ArminRmt/Codewars/tree/main/Recover%20a%20secret%20string%20from%20random%20triplets) challenge in [link](https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/python)
